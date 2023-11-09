@@ -1,8 +1,6 @@
 package com.leechcode;
 
-import java.util.*;
-
-public class MaxProfit {
+public class BestTimeToBuyAndSell {
 
     public static int solution1(int[] prices) {
         int menorValor = Integer.MAX_VALUE;
