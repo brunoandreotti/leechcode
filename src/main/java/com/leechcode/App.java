@@ -11,8 +11,8 @@ public class App
     public static void main( String[] args )
 
     {
-        int [] nums = { 1,1,1,3,3,4,3,2,4,2 };
+        int [] nums = { 1,2,2,3,3,3,4,3,3,3,2,2,1 };
 
-        System.out.println(CountingDuplicates.duplicateCount("aabbcde"));
+        System.out.println(FindOdd.findIt(nums));
     }
 }
